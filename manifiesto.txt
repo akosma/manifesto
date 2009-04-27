@@ -1,6 +1,6 @@
-manifiesto de la cooperativa de software
+manifiesto de la asociación libre de software
 
-version 1.0
+versión 1.0
 
 24 de abril del 2009
 
@@ -10,9 +10,9 @@ nosotros, trabajadores del ramo de la informática, en cargo de la creación y m
 introducción
 ============
 
-este manifiesto no es regla, sino la simple enunciación de ciertos principios fundadores, que algunos de entre nosotros nos fijamos como idea, visión, objetivo y voluntad.
+este manifiesto no es regla, sino la simple enunciación de ciertos principios fundadores, que algunos de entre nosotros nos fijamos como idea, visión, objetivo y voluntad. este manifiesto es lo que suscribimos y declaramos. 
 
-este manifiesto no es rígido, sino que será modificado en el futuro, con nuevos números de versión.
+pensamos que organizarnos libremente es bueno, y por lo tanto no hay ninguna rigidez ni deja de haberla. este manifiesto no prescribe a otros una voluntad sino que describe la nuestra propia. este texto será modificado en el futuro, con nuevos números de versión.
 
 este manifiesto está escrito en minúscula para resaltar su carácter igualitario, sin privilegios ni decoraciones.
 
@@ -22,27 +22,25 @@ este manifiesto existe en formatos abiertos, libres, no propietarios, para su di
 bases
 =====
 
-la única regla válida es: no hay regla.
-
-si bien no hay regla, hay moral y hay ética. moral y ética son mas importantes que los reglamentos. 
-
-el pragmatismo es más importante que la pureza ideológica.
-
 todo proceso de cambio comienza con el rechazo de un estado de las cosas. el grito de rechazo no es solamente necesario, es saludable e imprescindible. es un componente fundamental de la naturaleza humana.
 
 los reglamentos y las leyes deben adaptarse continuamente a los cambios de la sociedad. las leyes escritas en la piedra son fuente de muerte y destrucción, genocidio y hambre, desigualdad y tristeza.
 
+la ética es más importante que los reglamentos. 
+
+el hacer, simple y puro, en pos de un objetivo común, es más importante que la pureza ideológica o el pragmatismo acérrimo.
+
 no reconocemos a la palabra "justicia" como sinónimo de la frase "aplicación de la ley" sino como sinónimo de la frase "mejoramiento del estado del mundo y de sus habitantes".
 
-la moral y la ética establecen un principio básico: el no hacer a otros lo que no se quiere que le hagan a uno. este principio es el fundamento de nuestro accionar y guía nuestro diario andar.
+la ética establece un principio básico: el no hacer a otros lo que no se quiere que le hagan a uno. este principio es el fundamento de nuestro accionar y guía nuestro diario andar.
 
-en ese sentido, la observación del mundo actual lleva a concluir que éste no se rige por moral y ética, sino por reglas escritas en la piedra. 
+en ese sentido, la observación del mundo actual lleva a concluir que éste no se rige por ética, sino por reglas escritas en la piedra. 
 
 nosotros rechazamos este estado de las cosas con un grito unánime y mundial, reconociendo humildemente que nuestra profesión ha colaborado y colabora aún en el empeoramiento del estado del mundo.
 
-no es nuestro objetivo cambiar el mundo, sino cambiar nosotros, cambiar nuestra manera de verlo.
+no es nuestro objetivo principal cambiar el mundo de un día para el otro, sino cambiar nosotros, cambiar nuestra manera de verlo.
 
-no nos identificamos ni apoyamos al liberalismo, gremialismo, terrorismo, fascismo, comunismo, ni ningún otro "ismo" o movimiento de masas inertes que tenga como objetivo el cambiar de lado la balanza del poder.
+no nos identificamos ni apoyamos al liberalismo, terrorismo, fascismo, comunismo, ni ningún otro movimiento de masas inertes que tenga como objetivo el cambiar de lado la balanza del poder.
 
 nuestro objetivo es la eliminación de esa balanza. nuestro objetivo es el no-poder, la no-coerción, la no-destrucción.
 
@@ -52,37 +50,39 @@ hechos
 
 reconocemos al dinero y a las jerarquías como las dos principales causas del deplorable estado actual del mundo.
 
-reconocemos a la relación entre seres humanos, de manera básica, desinteresada, cooperativa, fraternal y atorrante, como la única relación válida para la construcción de un futuro común.
+reconocemos a la relación entre seres humanos, de manera básica, desinteresada, cooperativa, fraternal, como la única relación válida para la construcción de un futuro común.
 
-reconocemos al software como un medio más de la expresión humana, al igual que una obra artística o que un descubrimiento científico.
+reconocemos al software como un medio más de la expresión humana, al igual que una obra artesanal o que un descubrimiento científico.
 
-reconocemos a las computadoras (en todas sus formas y presentaciones) y a los programas (en cualquier lenguaje, plataforma y capacidad) como entidades al servicio del hombre, y no al revés. usados de manera ética y moral, pueden ser de gran ayuda para mejorar el bienestar humano en general.
+reconocemos a las computadoras (en todas sus formas y presentaciones) y a los programas (en cualquier lenguaje, plataforma y capacidad) como entidades al servicio del hombre, y no al revés. usados de manera ética, pueden ser de gran ayuda para mejorar el bienestar humano en general.
 
 reconocemos la libertad de expresión y el "copyleft" como pilares de base para alejar la sociedad en su conjunto de la ignorancia, lo cual es reconocido por nosotros como conditio sine qua non para un mundo mejor.
 
-los conceptos siguientes no son éticamente ni moralmente compatibles con nuestros principios: "jefe", "empleado", "subordinado", "superior", "manager", "despido", "reestructuración", "explotación". está de más decir que todos estos conceptos (y muchos más) son para nosotros sinónimos entre sí.
+reconocemos a la alienación del programador de su creación como fuente principal de errores y problemas basados en software.
+
+los conceptos siguientes no son éticamente compatibles con nuestros principios: "jefe", "empleado", "subordinado", "superior", "manager", "despido", "reestructuración", "contrato", "explotación". está de más decir que todos estos conceptos (y muchos más) son para nosotros sinónimos entre sí.
 
 
 forma social
 ============
 
-en función de los puntos explicados aquí arriba, reconocemos a la sociedad cooperativa como la única forma social de índole económico que es a la vez ética y moralmente compatible con nuestros principios.
+en función de los puntos explicados aquí arriba, reconocemos a la asociación libre como la única forma social de índole económico que es a la vez éticamente compatible con nuestros principios.
 
-en una cooperativa no hay empleados. por ende, en una cooperativa no puede haber despidos. hay participantes, colegas, amigos, con los que se comparte una construcción conjunta en pos de un objetivo común.
+en una asociación libre no hay empleados. por ende, no puede haber despidos. hay participantes, colegas, amigos, con los que se comparte una construcción conjunta en pos de un objetivo común.
 
 cada cual colabora en función de sus capacidades, para el bienestar común de todos y cada uno.
 
-el término "forma social" o "sociedad cooperativa" no implica un registro burocrático ni un establecimiento formal; toda reunión de iguales que responden a estos ideales es propicia y recomendable.
+los términos "forma social" o "asociación libre" no implican un registro burocrático ni un establecimiento o reconocimiento formal; toda reunión de iguales que responden a estos ideales es propicia y recomendable.
 
-una cooperativa de software responde a necesidades que pueden ser satisfechas usando computadoras y programas, sitios web, teléfonos celulares u otros medios.
+una asociación libre de software responde a necesidades que pueden ser satisfechas usando computadoras y programas, sitios web, teléfonos celulares u otros medios de consulta y difusión de la información.
 
-crear software es una actividad que toma tiempo y que por ende puede ser costosa. la responsabilidad económica de una organización cooperativa que realiza software consiste entonces en determinar las necesidades de subsistencia de sus miembros y entonces realizar proyectos que, tasados y retribuidos de manera justa, permitan cubrir estas necesidades.
+crear software es una actividad que toma tiempo y que por ende puede ser costosa. la responsabilidad económica de una asociación libre que realiza software consiste entonces en determinar las necesidades de subsistencia de sus miembros y entonces realizar proyectos que, tasados y retribuidos de manera justa, permitan cubrir estas necesidades.
 
-el objetivo de una cooperativa de software no es el lucro desmedido, sino aquel que permite mejorar lo que ofrece mediante el progreso tecnológico. 
+el objetivo de una asociación libre de software no es el lucro desmedido, sino aquel que permite mejorar lo que ofrece mediante el progreso tecnológico.
 
-una cooperativa de software no cede ante las presiones externas del capital volátil o del beneficio a corto plazo. por ende, una cooperativa de software no "abre su capital" a inversores externos, ni "vende partes" ni "se capitaliza". no acude al "venture capital" ni a otro ingreso que no sea la venta de sus propios productos, o de servicios contratados por externos y que respondan a los criterios éticos que se explican en este documento.
+una asociación libre de software no cede ante las presiones externas del capital volátil o del beneficio a corto plazo. por ende, una asociación libre de software no "abre su capital" a inversores externos, ni "vende partes", ni "se capitaliza", ni hace "initial public offerings" en ningún mercado. no acude al "venture capital" ni a otro ingreso que no sea la venta de sus propios productos, o de servicios contratados por externos y que respondan a los criterios éticos que se explican en este documento.
 
-en resumidas cuentas, una cooperativa de software apela al crecimiento orgánico, medido, necesario, y no a la demesura, al oprobio del gigantismo ni al salvajismo del mercado global.
+en resumidas cuentas, una asociación libre de software apela al crecimiento orgánico, medido, necesario, y no a la demesura, al oprobio del gigantismo ni al salvajismo del mercado global.
 
 
 objetivos
@@ -90,17 +90,21 @@ objetivos
 
 en el caso específico de nuestra función y tarea, que es la creación de software, nuestros objetivos son (aproximadamente en este orden de importancia):
 
-- establecimiento de un ambiente de trabajo propicio a la creación artística.
+- establecimiento de un ambiente de trabajo propicio a la creación artesanal. el centro de atención es el programador, el productor, el creador.
 
-- descentralización de decisiones y organización de equipos sin rigidez alguna en función de los proyectos y de las necesidades puntuales.
+- descentralización de decisiones y organización de equipos sin rigidez alguna en función de los proyectos y de las necesidades puntuales. 
 
-- distribución igualitaria de cualquier ganancia realizada entre los miembros de la cooperativa.
+- liderazgos basados en experiencia y/o imaginación, con fomento y necesidad del intercambio de información entre los miembros de los equipos, y entre los equipos en sí.
+
+- distribución responsable y necesaria de cualquier ganancia realizada entre los miembros de la asociación libre, en función de sus necesidades.
 
 - respeto incondicional de la naturaleza y el medio ambiente.
 
-- fomento a la enseñanza de nuestra profesión en todas sus formas, idiomas y culturas, usando todos los medios tecnológicos a nuestro alcance, hacia adentro y hacia afuera de nuestra cooperativa.
+- fomento a la enseñanza de nuestra profesión en todas sus formas, idiomas y culturas, usando todos los medios tecnológicos a nuestro alcance, hacia adentro y hacia afuera de la asociación libre.
 
 - uso de, fomento y contribución a proyectos de software de código libre u "open source", pero manteniendo el pragmatismo necesario para considerar soluciones de código propietario si fuese menester o apropiado.
+
+- defensa sin restricciones del "copyleft", del intercambio sin restricciones de información libre, y esto bajo todas sus formas y medios.
 
 - generación de medios de subsistencia necesarios para que cada miembro pueda llevar adelante su persona, su profesión y su familia de manera digna.
 
@@ -110,7 +114,7 @@ en el caso específico de nuestra función y tarea, que es la creación de softw
 no-objetivos
 ============
 
-tan importantes como la definición de los objetivos, los puntos siguientes delimitan claramente los límites de nuestro accionar, tal y como nuestros principios morales y éticos lo indican:
+tan importantes como la definición de los objetivos, los puntos siguientes delimitan claramente los límites de nuestro accionar, tal y como nuestros principios éticos lo indican:
 
 - no colaboramos ni ofrecemos nuestros productos o servicios de ninguna manera con individuos u organizaciones involucrados en los siguientes ámbitos:
 
@@ -119,14 +123,23 @@ tan importantes como la definición de los objetivos, los puntos siguientes deli
 + armamento (o cualquier tipo de insumo militar)
 + política o agencias gubernamentales
 + sistemas financieros locales o globales
++ invasiones en la esfera privada de los individuos
 
 - no colaboramos ni ofrecemos nuestros productos o servicios de ninguna manera con individuos u organizaciones reconocidas por los siguientes actos, en cualquiera de sus formas, en cualquier lugar del mundo:
 
 + violación de derechos humanos
 + destrucción del medio ambiente
 + restricciones a la libertad de expresión
-+ estafas financieras
++ debacles financieras que generen pérdidas de empleos o aumento de la pobreza
 
 - no profesamos fanatismo ni devoción por ninguna plataforma tecnológica particular, sino que mantenemos vigente el pragmatismo necesario para usar la o las tecnologías que responden mejor a las necesidades de cada proyecto.
 
 
+conclusión
+==========
+
+vemos la asociación libre de software como un eslabón en una cadena necesaria y fundamental de cooperación y distribución.
+
+vemos la asociación libre de software como un ente regido por la ética, flexible y dinámico, relacionado con organizaciones similares que proponen una visión diferente sobre el quehacer humano.
+
+fomentamos la generación espontánea de asociaciones libres similares, inspiradas en este manifiesto alrededor del mundo, y fomentamos la cooperación y el intercambio entre éstas.
