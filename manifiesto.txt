@@ -24,7 +24,7 @@ bases
 
 todo proceso de cambio comienza con el rechazo de un estado de las cosas. el grito de rechazo no es solamente necesario, es saludable e imprescindible. es un componente fundamental de la naturaleza humana.
 
-los reglamentos y las leyes deben adaptarse continuamente a los cambios de la sociedad. las leyes escritas en la piedra son fuente de muerte y destrucción, genocidio y hambre, desigualdad y tristeza.
+las leyes escritas en la piedra son fuente de muerte y destrucción, genocidio y hambre, desigualdad y tristeza.
 
 la ética es más importante que los reglamentos. 
 
@@ -36,11 +36,11 @@ la ética establece un principio básico: el no hacer a otros lo que no se quier
 
 en ese sentido, la observación del mundo actual lleva a concluir que éste no se rige por ética, sino por reglas escritas en la piedra. 
 
-nosotros rechazamos este estado de las cosas con un grito unánime y mundial, reconociendo humildemente que nuestra profesión ha colaborado y colabora aún en el empeoramiento del estado del mundo.
+nosotros rechazamos este estado de las cosas con un grito unánime y mundial, reconociendo humildemente que nuestra profesión ha colaborado y colabora aún en el empeoramiento del estado del mundo, como cualquier otra que se inserte en el sistema de mercado favoreciendo su afianzamiento y reproducción.
 
-no es nuestro objetivo principal cambiar el mundo de un día para el otro, sino cambiar nosotros, cambiar nuestra manera de verlo.
+no es nuestro objetivo principal cambiar el mundo de un día para el otro, sino cambiar nosotros, cambiar nuestra manera de verlo y hacerlo.
 
-no nos identificamos ni apoyamos al liberalismo, terrorismo, fascismo, comunismo, ni ningún otro movimiento de masas inertes que tenga como objetivo el cambiar de lado la balanza del poder.
+no nos identificamos ni apoyamos los pensamientos doctrinarios ni los movimientos de masas inertes que solamente pueden tener como objetivo cambiar de lado la balanza del poder.
 
 nuestro objetivo es la eliminación de esa balanza. nuestro objetivo es el no-poder, la no-coerción, la no-destrucción.
 
@@ -52,13 +52,15 @@ reconocemos al dinero y a las jerarquías como las dos principales causas del de
 
 reconocemos a la relación entre seres humanos, de manera básica, desinteresada, cooperativa, fraternal, como la única relación válida para la construcción de un futuro común.
 
-reconocemos al software como un medio más de la expresión humana, al igual que una obra artesanal o que un descubrimiento científico.
+reconocemos en el software una doble potencia funcional y estética que lo iguala con cualquier práctica artesanal y lo ubica en el cruce de lo científico y lo artístico. es un medio más de la expresión humana.
 
 reconocemos a las computadoras (en todas sus formas y presentaciones) y a los programas (en cualquier lenguaje, plataforma y capacidad) como entidades al servicio del hombre, y no al revés. usados de manera ética, pueden ser de gran ayuda para mejorar el bienestar humano en general.
 
+consideramos a la tecnología, en términos generales, como una capacidad humana de mejorar sus condiciones de vida. sostenemos que los graves y enormes perjuicios que la tecnología genera en el mundo actual se deben a las postergaciones éticas y a la falta de sensatez. denunciamos la peligrosidad de los patrones de desarrollo no discriminado.
+
 reconocemos la libertad de expresión y el "copyleft" como pilares de base para alejar la sociedad en su conjunto de la ignorancia, lo cual es reconocido por nosotros como conditio sine qua non para un mundo mejor.
 
-reconocemos a la alienación del programador de su creación como fuente principal de errores y problemas basados en software.
+reconocemos a la alienación del programador respecto a su creación como fuente principal de errores y problemas basados en software, y como una expresión más de los daños producidos por la alienación del trabajo en la actual situación social.
 
 los conceptos siguientes no son éticamente compatibles con nuestros principios: "jefe", "empleado", "subordinado", "superior", "manager", "despido", "reestructuración", "contrato", "explotación". está de más decir que todos estos conceptos (y muchos más) son para nosotros sinónimos entre sí.
 
@@ -66,7 +68,7 @@ los conceptos siguientes no son éticamente compatibles con nuestros principios:
 forma social
 ============
 
-en función de los puntos explicados aquí arriba, reconocemos a la asociación libre como la única forma social de índole económico que es a la vez éticamente compatible con nuestros principios.
+en función de los puntos explicados aquí arriba, reconocemos a la asociación libre como la única forma social de índole económico que es a la vez éticamente compatible con nuestros principios en la situación actual.
 
 en una asociación libre no hay empleados. por ende, no puede haber despidos. hay participantes, colegas, amigos, con los que se comparte una construcción conjunta en pos de un objetivo común.
 
@@ -74,15 +76,15 @@ cada cual colabora en función de sus capacidades, para el bienestar común de t
 
 los términos "forma social" o "asociación libre" no implican un registro burocrático ni un establecimiento o reconocimiento formal; toda reunión de iguales que responden a estos ideales es propicia y recomendable.
 
-una asociación libre de software responde a necesidades que pueden ser satisfechas usando computadoras y programas, sitios web, teléfonos celulares u otros medios de consulta y difusión de la información.
+una asociación libre de software responde a necesidades que pueden ser satisfechas usando computadoras y programas, sitios web, teléfonos celulares u otros medios de procesamiento, consulta y difusión de la información.
 
-crear software es una actividad que toma tiempo y que por ende puede ser costosa. la responsabilidad económica de una asociación libre que realiza software consiste entonces en determinar las necesidades de subsistencia de sus miembros y entonces realizar proyectos que, tasados y retribuidos de manera justa, permitan cubrir estas necesidades.
+crear software es una actividad que toma tiempo y que por ende puede ser costosa. la responsabilidad económica de una asociación libre que realiza software consiste entonces en determinar las necesidades económicas de sus miembros y realizar proyectos que permitan cubrir estas necesidades, en función de las capacidades y las necesidades de los destinatarios finales de esos proyectos.
 
-el objetivo de una asociación libre de software no es el lucro desmedido, sino aquel que permite mejorar lo que ofrece mediante el progreso tecnológico.
+el objetivo de una asociación libre de software no es el lucro, sino la atención de las necesidades económicas de sus miembros y las necesidades tecnológicas de la sociedad.
 
 una asociación libre de software no cede ante las presiones externas del capital volátil o del beneficio a corto plazo. por ende, una asociación libre de software no "abre su capital" a inversores externos, ni "vende partes", ni "se capitaliza", ni hace "initial public offerings" en ningún mercado. no acude al "venture capital" ni a otro ingreso que no sea la venta de sus propios productos, o de servicios contratados por externos y que respondan a los criterios éticos que se explican en este documento.
 
-en resumidas cuentas, una asociación libre de software apela al crecimiento orgánico, medido, necesario, y no a la demesura, al oprobio del gigantismo ni al salvajismo del mercado global.
+en resumidas cuentas, una asociación libre de software apela al crecimiento orgánico, medido, necesario y sostenible ecológica y socialmente, y no a la demesura, al oprobio del gigantismo ni al salvajismo del mercado global.
 
 
 objetivos
@@ -90,17 +92,17 @@ objetivos
 
 en el caso específico de nuestra función y tarea, que es la creación de software, nuestros objetivos son (aproximadamente en este orden de importancia):
 
-- establecimiento de un ambiente de trabajo propicio a la creación artesanal. el centro de atención es el programador, el productor, el creador.
+- establecimiento de un ambiente de trabajo propicio a la creación artesanal y el trabajo productivo. el centro de atención es el programador, el productor, el creador.
 
 - descentralización de decisiones y organización de equipos sin rigidez alguna en función de los proyectos y de las necesidades puntuales. 
 
-- liderazgos basados en experiencia y/o imaginación, con fomento y necesidad del intercambio de información entre los miembros de los equipos, y entre los equipos en sí.
+- distribución de roles y responsabilidades basada en experiencias y/o capacidades técnicas y creativas, con fomento y necesidad del intercambio de información entre los miembros de los equipos, y entre los equipos en sí.
 
 - distribución responsable y necesaria de cualquier ganancia realizada entre los miembros de la asociación libre, en función de sus necesidades.
 
 - respeto incondicional de la naturaleza y el medio ambiente.
 
-- fomento a la enseñanza de nuestra profesión en todas sus formas, idiomas y culturas, usando todos los medios tecnológicos a nuestro alcance, hacia adentro y hacia afuera de la asociación libre.
+- fomento a la enseñanza de nuestro oficio en todas sus formas, idiomas y culturas, usando todos los medios tecnológicos a nuestro alcance, hacia adentro y hacia afuera de la asociación libre.
 
 - uso de, fomento y contribución a proyectos de software de código libre u "open source", pero manteniendo el pragmatismo necesario para considerar soluciones de código propietario si fuese menester o apropiado.
 
@@ -121,7 +123,7 @@ tan importantes como la definición de los objetivos, los puntos siguientes deli
 + petroquímica
 + energía atómica
 + armamento (o cualquier tipo de insumo militar)
-+ política o agencias gubernamentales
++ política representativa o agencias gubernamentales
 + sistemas financieros locales o globales
 + invasiones en la esfera privada de los individuos
 
@@ -137,6 +139,8 @@ tan importantes como la definición de los objetivos, los puntos siguientes deli
 
 conclusión
 ==========
+
+consideramos la programación de software como un trabajo productivo en el ámbito tecnológico, cuya potencia en relación al bienestar social aún no está desplegada adecuadamente
 
 vemos la asociación libre de software como un eslabón en una cadena necesaria y fundamental de cooperación y distribución.
 
