@@ -56,7 +56,7 @@ reconocemos en el software una doble potencia funcional y estética que lo igual
 
 reconocemos a las computadoras (en todas sus formas y presentaciones) y a los programas (en cualquier lenguaje, plataforma y capacidad) como entidades al servicio del hombre, y no al revés. usados de manera ética, pueden ser de gran ayuda para mejorar el bienestar humano en general.
 
-consideramos a la tecnología, en términos generales, como una capacidad humana de mejorar sus condiciones de vida. sostenemos que los graves y enormes perjuicios que la tecnología genera en el mundo actual se deben a las postergaciones éticas y a la falta de sensatez. denunciamos la peligrosidad de los patrones de desarrollo no discriminado.
+consideramos a la tecnología, en términos generales, como una capacidad humana de mejorar sus condiciones de vida. sostenemos que los graves y enormes perjuicios que la tecnología genera en el mundo actual se deben a las postergaciones éticas y a la falta de sensatez. denunciamos la peligrosidad de los patrones de desarrollo social no discriminado.
 
 reconocemos la libertad de expresión y el "copyleft" como pilares de base para alejar la sociedad en su conjunto de la ignorancia, lo cual es reconocido por nosotros como conditio sine qua non para un mundo mejor.
 
@@ -78,7 +78,7 @@ los términos "forma social" o "asociación libre" no implican un registro buroc
 
 una asociación libre de software responde a necesidades que pueden ser satisfechas usando computadoras y programas, sitios web, teléfonos celulares u otros medios de procesamiento, consulta y difusión de la información.
 
-crear software es una actividad que toma tiempo y que por ende puede ser costosa. la responsabilidad económica de una asociación libre que realiza software consiste entonces en determinar las necesidades económicas de sus miembros y realizar proyectos que permitan cubrir estas necesidades, en función de las capacidades y las necesidades de los destinatarios finales de esos proyectos.
+crear software es una actividad que toma tiempo y que por ende puede ser costosa. la responsabilidad económica de una asociación libre que realiza software consiste entonces en determinar las necesidades económicas de sus miembros y realizar proyectos que permitan cubrir estas necesidades, también en función de las capacidades y las necesidades de los destinatarios finales de esos proyectos.
 
 el objetivo de una asociación libre de software no es el lucro, sino la atención de las necesidades económicas de sus miembros y las necesidades tecnológicas de la sociedad.
 
